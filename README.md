@@ -18,7 +18,9 @@ Each iRobot has their own territory. The iRobot will not travel across other ter
 The iRobot will stop when all the area is discovered inside the boundary.
 
 State 1: Stop and turn when detecting wall by bumper
+
 State 2: Stop and turn before the iRobot enter the discovered area.
+
 State 3: Stop when travel distance is less than robot diameter.
 
 Issue 1:
