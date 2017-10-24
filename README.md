@@ -1,5 +1,5 @@
 # Room-Mapping-Project
-Advanced Robotics Final Project
+Advanced Robotics Final Project  (Spring 2016)
 
 Description: 
 This project is to use multiple iRobots to detect the boundary of a room.
